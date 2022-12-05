@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="11807" started-at="2022-12-05T09:08:47Z" finished-at="2022-12-05T09:08:59Z">
+    <groups>
+    </groups>
+    <test name="RestAssured Test" duration-ms="11807" started-at="2022-12-05T09:08:47Z" finished-at="2022-12-05T09:08:59Z">
+      <class name="com.scrolltest.api.TestGetUser">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.scrolltest.api.TestGetUser@2a5c8d3f]" name="setup" is-config="true" duration-ms="65" started-at="2022-12-05T11:08:47Z" finished-at="2022-12-05T11:08:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getCommentsOfPost()[pri:0, instance:com.scrolltest.api.TestGetUser@2a5c8d3f]" name="getCommentsOfPost" duration-ms="11603" started-at="2022-12-05T11:08:47Z" finished-at="2022-12-05T11:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCommentsOfPost -->
+        <test-method status="PASS" signature="getPostsOfAUser()[pri:0, instance:com.scrolltest.api.TestGetUser@2a5c8d3f]" name="getPostsOfAUser" duration-ms="66" started-at="2022-12-05T11:08:59Z" finished-at="2022-12-05T11:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostsOfAUser -->
+        <test-method status="PASS" signature="getUsers()[pri:0, instance:com.scrolltest.api.TestGetUser@2a5c8d3f]" name="getUsers" duration-ms="62" started-at="2022-12-05T11:08:59Z" finished-at="2022-12-05T11:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsers -->
+      </class> <!-- com.scrolltest.api.TestGetUser -->
+    </test> <!-- RestAssured Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>

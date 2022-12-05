@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.dtd">
+<suite name="Regression Suite">
+<test name="RestAssured Test">
+<classes>
+<class name="com.letskodeit.statuses.UserTimelineTest"/>
+<class name="com.letskodeit.statuses.TwitterWorkflowTest"/>
+</classes>
+</test>
+</suite>

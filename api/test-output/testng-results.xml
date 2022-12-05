@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T11:44:26 SAST" name="Default suite" finished-at="2022-12-05T11:44:27 SAST" duration-ms="1326">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T11:44:26 SAST" name="Default test" finished-at="2022-12-05T11:44:27 SAST" duration-ms="1326">
+      <class name="com.scrolltest.api.TestGetUser">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.scrolltest.api.TestGetUser@1e886a5b]" started-at="2022-12-05T11:44:26 SAST" name="setup" finished-at="2022-12-05T11:44:26 SAST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getUsers()[pri:0, instance:com.scrolltest.api.TestGetUser@1e886a5b]" started-at="2022-12-05T11:44:26 SAST" name="getUsers" finished-at="2022-12-05T11:44:27 SAST" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsers -->
+      </class> <!-- com.scrolltest.api.TestGetUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

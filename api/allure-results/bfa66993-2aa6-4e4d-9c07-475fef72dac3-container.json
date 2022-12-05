@@ -1,0 +1,1 @@
+{"uuid":"bfa66993-2aa6-4e4d-9c07-475fef72dac3","name":"com.scrolltest.api.TestGetUser","children":["01631098-c9dc-49b3-b297-5936810c6b31"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1670074029554,"stop":1670074029908}],"afters":[],"start":1670074029535,"stop":1670074030467}
